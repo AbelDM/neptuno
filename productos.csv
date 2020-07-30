@@ -1,0 +1,78 @@
+KeyProducto,CodigoProducto,NombreProducto,NombreCategoria,PrecioUnidad
+1387,1,Té Dharamsala,Bebidas,18
+1388,2,Cerveza tibetana Barley,Bebidas,19
+1389,3,Sirope de regaliz,Condimentos,10
+1390,4,Especias Cajun del chef Anton,Condimentos,22
+1391,5,Mezcla Gumbo del chef Anton,Condimentos,21
+1392,6,Mermelada de grosellas de la abuela,Condimentos,25
+1393,7,Peras secas orgánicas del tío Bob,Frutas/Verduras,30
+1394,8,Salsa de arándanos Northwoods,Condimentos,40
+1395,9,Buey Mishi Kobe,Carnes,97
+1396,10,Pez espada,Pescado/Marisco,31
+1397,11,Queso Cabrales,Lácteos,21
+1398,12,Queso Manchego La Pastora,Lácteos,38
+1399,13,Algas Konbu,Pescado/Marisco,6
+1400,14,Cuajada de judías,Frutas/Verduras,23
+1401,15,Salsa de soja baja en sodio,Condimentos,16
+1402,16,Postre de merengue Pavlova,Repostería,17
+1403,17,Cordero Alice Springs,Carnes,39
+1404,18,Langostinos tigre Carnarvon,Pescado/Marisco,63
+1405,19,Pastas de té de chocolate,Repostería,9
+1406,20,Mermelada de Sir Rodney's,Repostería,81
+1407,21,Bollos de Sir Rodney's,Repostería,10
+1408,22,Pan de centeno crujiente estilo Gustaf's,Granos/Cereales,21
+1409,23,Pan fino,Granos/Cereales,9
+1410,24,Refresco Guaraná Fantástica,Bebidas,5
+1411,25,Crema de chocolate y nueces NuNuCa,Repostería,14
+1412,26,Ositos de goma Gumbär,Repostería,31
+1413,27,Chocolate Schoggi,Repostería,44
+1414,28,Col fermentada Rössle,Frutas/Verduras,46
+1415,29,Salchicha Thüringer,Carnes,124
+1416,30,Arenque blanco del noroeste,Pescado/Marisco,26
+1417,31,Queso gorgonzola Telino,Lácteos,13
+1418,32,Queso Mascarpone Fabioli,Lácteos,32
+1419,33,Queso de cabra,Lácteos,3
+1420,34,Cerveza Sasquatch,Bebidas,14
+1421,35,Cerveza negra Steeleye,Bebidas,18
+1422,36,Escabeche de arenque,Pescado/Marisco,19
+1423,37,Salmón ahumado Gravad,Pescado/Marisco,26
+1424,38,Vino Côte de Blaye,Bebidas,264
+1425,39,Licor verde Chartreuse,Bebidas,18
+1426,40,Carne de cangrejo de Boston,Pescado/Marisco,18
+1427,41,Crema de almejas estilo Nueva Inglaterra,Pescado/Marisco,10
+1428,42,Tallarines de Singapur,Granos/Cereales,14
+1429,43,Café de Malasia,Bebidas,46
+1430,44,Azúcar negra Malacca,Condimentos,19
+1431,45,Arenque ahumado,Pescado/Marisco,10
+1432,46,Arenque salado,Pescado/Marisco,12
+1433,47,Galletas Zaanse,Repostería,10
+1434,48,Chocolate holandés,Repostería,13
+1435,49,Regaliz,Repostería,20
+1436,50,Chocolate blanco,Repostería,16
+1437,51,Manzanas secas Manjimup,Frutas/Verduras,53
+1438,52,Cereales para Filo,Granos/Cereales,7
+1439,53,Empanada de carne,Carnes,33
+1440,54,Empanada de cerdo,Carnes,7
+1441,55,Paté chino,Carnes,24
+1442,56,Gnocchi de la abuela Alicia,Granos/Cereales,38
+1443,57,Raviolis Angelo,Granos/Cereales,20
+1444,58,Caracoles de Borgoña,Pescado/Marisco,13
+1445,59,Raclet de queso Courdavault,Lácteos,55
+1446,60,Camembert Pierrot,Lácteos,34
+1447,61,Sirope de arce,Condimentos,29
+1448,62,Tarta de azúcar,Repostería,49
+1449,63,Sandwich de vegetales,Condimentos,44
+1450,64,Bollos de pan de Wimmer,Granos/Cereales,33
+1451,65,Salsa de pimiento picante de Luisiana,Condimentos,21
+1452,66,Especias picantes de Luisiana,Condimentos,17
+1453,67,Cerveza Laughing Lumberjack,Bebidas,14
+1454,68,Barras de pan de Escocia,Repostería,13
+1455,69,Queso Gudbrandsdals,Lácteos,36
+1456,70,Cerveza Outback,Bebidas,15
+1457,71,Crema de queso Fløtemys,Lácteos,22
+1458,72,Queso Mozzarella Giovanni,Lácteos,35
+1459,73,Caviar rojo,Pescado/Marisco,15
+1460,74,Queso de soja Longlife,Frutas/Verduras,10
+1461,75,Cerveza Klosterbier Rhönbräu,Bebidas,8
+1462,76,Licor Cloudberry,Bebidas,18
+1463,77,Salsa verde original Frankfurter,Condimentos,13
